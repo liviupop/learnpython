@@ -1,0 +1,2 @@
+# learnpython
+List of resources
