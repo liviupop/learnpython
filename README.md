@@ -34,3 +34,6 @@ https://github.com/thewhitetulip/build-app-with-python-antitextbook
 
 10 - Chalanging and frustrating
 http://www.pythonchallenge.com/pc/def/0.html
+
+11 - Think Python
+http://greenteapress.com/wp/think-python/
